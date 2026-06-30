@@ -1,6 +1,2 @@
-Plaintext
-streamlit
-streamlit-webrtc
-opencv-python-headless
-av
-numpy
+opencv-python
+mediapipe
